@@ -1,0 +1,2 @@
+# Swift Overview Code
+This code was presented in lecture introducing the Swift programming language. As indicated in the comments, the material draws heavily from Apple's [Tour of Swift](https://developer.apple.com/library/prerelease/ios/documentation/Swift/Conceptual/Swift_Programming_Language/GuidedTour.html). In addition, in class I recommended both Apple's ebook on Swift as well as the gitbook [Swift Cheat Sheet](https://www.gitbook.com/book/mhm5000/swift-cheat-sheet/details) for more information on the Swift programming language.
