@@ -107,6 +107,6 @@ print(triangleAndSquare.triangle.sideLength)
 
 
 //** When working with optional values, you can write ? before operations like methods, properties, and subscripting. If the value before the ? is nil, everything after the ? is ignored and the value of the whole expression is nil. Otherwise, the optional value is unwrapped, and everything after the ? acts on the unwrapped value. In both cases, the value of the whole expression is an optional value. **//
-let optionalSquare: Square? //= Square(sideLength: 2.5, name: "optional square")
+let optionalSquare: Square? = Square(sideLength: 2.5, name: "optional square")
 let sideLength = optionalSquare?.sideLength
 

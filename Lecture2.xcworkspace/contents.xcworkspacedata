@@ -5,6 +5,9 @@
       location = "group:Intro_to_Swift.playground">
    </FileRef>
    <FileRef
+      location = "group:Protocols.playground">
+   </FileRef>
+   <FileRef
       location = "group:Closures.playground">
    </FileRef>
    <FileRef
