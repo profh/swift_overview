@@ -29,7 +29,10 @@ var b = SimpleStructure()
 b.adjust()
 let bDescription = b.simpleDescription
 
-//** using protocols **//
+
+
+
+//** simple example using protocols **//
 protocol Food {
   var caloriesPerGram: Double { get }
 }
